@@ -1,8 +1,8 @@
 ---
-title: Title :)
+title: About me
 ---
-# hello-world
-my first repository :)
+
+# Welcome to my page  
 
 I am a normal college student (probably).
 I usually use C++ dan Java.
