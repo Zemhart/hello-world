@@ -1,3 +1,6 @@
+---
+title: Title :)
+---
 # hello-world
 my first repository :)
 
